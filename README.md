@@ -17,6 +17,10 @@ Normal text line.
   * Subitem 2.2
     - Subitem 2.2.1
     - Subitem 2.2.2
+      + Subitem 2.2.2.1
+      + Subitem 2.2.2.2
+        - Subitem 2.2.2.2.1
+        - Subitem 2.2.2.2.2
 - Item 3
 + Item 4
 # Another Title 1
