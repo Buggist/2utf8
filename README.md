@@ -8,4 +8,13 @@
 ##### Title 5
 ###### Title 6
 Normal text line.
+*Italic text*.
+**Bold text**.
+***Bold Italic text***.
+* Item 1
+* Item 2
+  * Subitem 2.1
+  * Subitem 2.2
+- Item 3
++ Item 4
 # Another Title 1
